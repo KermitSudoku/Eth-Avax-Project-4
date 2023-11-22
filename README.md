@@ -93,8 +93,5 @@ You can also monitor your account's transactions with Metamask.
 
 ## Authors
 
-Contributors names and contact info
-
-Jarod Jangcan
 [KermitSudoku](https://github.com/KermitSudoku)
 
